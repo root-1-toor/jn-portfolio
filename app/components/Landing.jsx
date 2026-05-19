@@ -375,3 +375,8 @@ export default function Landing() {
     </div>
   );
 }
+
+export const metadata = {
+  title: "James Newman — Engineering Lead",
+  description: "Software engineer with a decade of tech grit.",
+};
