@@ -4,6 +4,18 @@ export const NAV = ["work", "stack", "about", "writing"];
 // ── PROJECTS ────────────────────────────────────────────────
 export const PROJECTS = [
   {
+  id: "say-so",
+  tag: "Full Stack · Voice",
+  tagColor: "green",
+  title: "Say So — Voice Reviews",
+  year: "2026",
+  desc: "Built a voice-first review platform from scratch — records the reviewer's actual audio via MediaRecorder, runs live browser-based transcription in parallel via the Web Speech API, and posts both to a public wall with instant playback. No accounts, no API keys.",
+  stack: ["Next.js 14", "TypeScript", "Tailwind CSS", "Web Speech API", "MediaRecorder API", "Vercel"],
+  metrics: ["Real audio + live transcript", "Zero API keys", "60s max clip", "Deployed in <60s"],
+  link: "https://say-so-seven.vercel.app/",
+  curriculum: null,
+},
+  {
     id: "thrift",
     tag: "security",
     tagColor: "red",
