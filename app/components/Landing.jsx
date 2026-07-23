@@ -214,8 +214,8 @@ function AboutSection() {
           the industry doesn't.
         </p>
         <p className="about-p-secondary">
-          At American Express I shipped MERN stack features touching 100,000+
-          daily users and led the Angular → React migration. At edX I mentored
+          At American Express as a UI/UX developer I currently ship and deploy MERN stack features touching 150,000+
+          daily users and have previously led the Angular → React migration. At edX I mentored
           350+ students across UPenn, GWU, and Rutgers — instructing full stack
           web dev and data analytics bootcamps with 250+ hours of live teaching.
         </p>
