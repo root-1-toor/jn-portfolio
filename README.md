@@ -1,4 +1,4 @@
-# James Newman
+
 
 Personal portfolio. Built with Next.js, deployed on Vercel.
 
